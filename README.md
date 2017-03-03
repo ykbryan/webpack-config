@@ -1,10 +1,21 @@
-Helloooo
+# Helloooo to Webpack learning
 
-* Setup & Initialise
+## Setup & Initialise
 
 ```
 npm install -g webpack
-webpack // for development
 ```
 
-Thank you
+## To use for development
+
+```
+webpack
+```
+
+## To use for production
+
+```
+NODE_ENV=production webpack
+```
+
+### Thank you
